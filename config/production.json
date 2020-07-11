@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "IT_Samurai",
+  "mongoUri": "mongodb+srv://silva:giz911@cluster0.bkyc8.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
